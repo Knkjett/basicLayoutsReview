@@ -1,0 +1,17 @@
+.col {
+    background-color: pink;
+    height: 100px;
+    width: 100%;
+  }
+  
+  .col-one-half {
+    box-sizing: border-box;
+    background-color: yellow;
+    height: 300px;
+    width: calc(50% - 5px);
+    display: inline-block;
+  }
+  
+  .col-last {
+    margin-left: 10px;
+  }
